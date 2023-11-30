@@ -5,6 +5,10 @@
   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
   text: English
 
+- lang: ig
+  img: https://cdn.countryflags.com/thumbs/nigeria/flag-400.png
+  text: Igbo
+  
 - lang: fr
   img: https://cdn.countryflags.com/thumbs/france/flag-400.png
   text: French
