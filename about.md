@@ -7,7 +7,7 @@ title: About
 
 ### Why
 
-Today, many people are bombarded with plenty fake texh news. We want to be one of the trusted source for reliable and legit tech news and reviews. 
+Today, many people are bombarded with plenty fake tech news. We want to be one of the trusted source for reliable and legit tech news and reviews. 
 
 ### How
 
